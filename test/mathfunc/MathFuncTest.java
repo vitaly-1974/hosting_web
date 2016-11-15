@@ -12,11 +12,9 @@ public class MathFuncTest {
 
     public MathFuncTest() {
     }
-    
     @BeforeClass
     public static void setUpClass() {
     }
-    
     @AfterClass
     public static void tearDownClass() {
     }
